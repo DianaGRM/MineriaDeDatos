@@ -6,5 +6,5 @@
 [Avance del PIA1](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Avance1_PIA_10.ipynb)
 
 [Presentacion_Regresión Bayesiana](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Presentacion_RegresionBayesiana_10.pdf)
-[Codigo R de regresión bayesiana](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Teorema%20de%20Bayes.R)
-[Preguntas de regresión bayesiana](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Preguntas_RegresionB.pdf)
+[,Codigo R de regresión bayesiana](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Teorema%20de%20Bayes.R)
+[,Preguntas de regresión bayesiana](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Preguntas_RegresionB.pdf)
