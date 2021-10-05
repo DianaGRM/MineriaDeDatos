@@ -8,3 +8,7 @@
 [Presentacion_Regresión Bayesiana](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Presentacion_RegresionBayesiana_10.pdf)
 [,Codigo R de regresión bayesiana](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Teorema%20de%20Bayes.R)
 [,Preguntas de regresión bayesiana](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Preguntas_RegresionB.pdf)
+
+[Practica2, parte1](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Visualizaci%C3%B3n_10_Parte1.ipynb)
+[, parte2](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/visualizacion_10_parte2.ipynb)
+
