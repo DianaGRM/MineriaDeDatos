@@ -12,3 +12,4 @@
 [Practica2, parte1](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Visualizaci%C3%B3n_10_Parte1.ipynb)
 [, parte2](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/visualizacion_10_parte2.ipynb)
 
+[Avance del PIA](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Avance2_PIA_10.ipynb)
