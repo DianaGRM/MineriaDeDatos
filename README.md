@@ -18,4 +18,6 @@
 
 [Avance2 corregido del PIA](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Avance2_PIA_10_CORREGIDO.ipynb)
 
-[Mi PIA] 
+#MI PIA 
+
+[Segundo avance del PIA](https://github.com/DianaGRM/MineriaDeDatos/blob/main/SegundoAvanzePIA.ipynb)
