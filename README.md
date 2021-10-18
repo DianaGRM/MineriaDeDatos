@@ -23,3 +23,5 @@
 [Segundo avance del PIA](https://github.com/DianaGRM/MineriaDeDatos/blob/main/SegundoAvanzePIA.ipynb)
 
 [Tecnicas de mineria](https://github.com/DianaGRM/MineriaDeDatos/blob/main/EjercicioTecnicas.ipynb)
+
+[Notebook](https://github.com/DianaGRM/MineriaDeDatos/blob/main/Notebook.ipynb)
