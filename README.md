@@ -25,3 +25,5 @@
 [Tecnicas de mineria](https://github.com/DianaGRM/MineriaDeDatos/blob/main/EjercicioTecnicas.ipynb)
 
 [Notebook](https://github.com/DianaGRM/MineriaDeDatos/blob/main/Notebook.ipynb)
+
+[Poster_PIA](https://github.com/DianaGRM/MineriaDeDatos/blob/main/Consumo%20de%20alcohol%20en%20adolescentes.pdf)
